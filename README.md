@@ -3,6 +3,7 @@
 ### I am currently working in Shanghai for a start-up company.
 ### I am learning Go and practicing algorithm these days.
 ### :email: You can send me an e-mail chenchangyuan5926@163.com
+		HAVE  FUN IN GITHUB!
 
 
 
