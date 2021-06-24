@@ -1,7 +1,6 @@
 ### Hi there 👋
-### I am an undergraduate student of Luoyang Normal University.
-### I am now searching a new job.
-### I am learning Go and practicing algorithm these days.
+### I am graduated from of Luoyang Normal University.
+### I am a backend engineer working in Shanghai.
 ### :email: You can send me an e-mail chenchangyuan5926@163.com
 		HAVE  FUN IN GITHUB!
 
